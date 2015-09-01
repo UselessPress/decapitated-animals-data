@@ -23,6 +23,7 @@ You may download the dataset in the following formats:
 * [csv](animals.csv)
 * [excel](animals.xlsx)
 * [json](animals.json)
+* [geojson](animals.geojson)
 * [sql](animals.sql)
 * [mp3](animals.mp3) (rows 1-22, read by [Amelia Winger-Bearskin](http://www.studioamelia.com/))
 
