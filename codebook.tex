@@ -1,0 +1,257 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\date{}
+
+\begin{document}
+
+\section{Codebook for Decapitated Animals Found in New York
+Parks}\label{codebook-for-decapitated-animals-found-in-new-york-parks}
+
+\subsection{Variable Descriptives}\label{variable-descriptives}
+
+\subsubsection{animal}\label{animal}
+
+variable: ANIMAL, variable type: character field (variable length),
+variable label: the type of decapitated animal identified, note: in
+cases where more than one type of animal was identified, only the
+primary animal is listed.
+
+\subsubsection{quantity}\label{quantity}
+
+variable: QUANTITY, variable type: integer, variable label: the number
+of decapitated animals identified, note: in cases where the number of
+decapitated animals is ambiguous the smallest possible estimate is
+given. Note that though this variable may refer to parts of animals, it
+is given as an integer.
+
+\subsubsection{body\_part\_found}\label{bodyux5fpartux5ffound}
+
+variable: BODY\_PART\_FOUND, variable type: character field (variable
+length), variable label: the part of the decapitated animal identified.
+
+\subsubsection{date\_started}\label{dateux5fstarted}
+
+variable: DATE\_STARTED, variable type: date, variable label: The date
+on which a report regarding the decapitated animal was first filed with
+the New York City Department of Parks and Recreation.
+
+\subsubsection{date\_closed}\label{dateux5fclosed}
+
+variable: DATE\_CLOSED, variable type: date, variable label: The date on
+which the New York City Department of Parks and Recreation either
+resolved the issue regarding the decapitated animal, note: in cases
+where the New York City Department of Parks and Recreation did not
+resolve the issues regarding the decapitated animal, the date on which
+it did not resolve the issue regarding the decapitated animal is given.
+
+\subsubsection{source}\label{source}
+
+variable: SOURCE, variable type: categorical (``311-Call Center'',
+``Department of Parks and Recreation''), variable label: The avenue by
+which the decapitated animal was originally identified.
+
+\subsubsection{division}\label{division}
+
+variable: DIVISION, variable type: categorical (``Borough Maintenance
+Operations Office - Queens'', ``Borough Maintenance Operations Office -
+Manhattan'', ``Borough Maintenance Operations Office - Bronx'',
+``Borough Maintenance Operations Office - Brooklyn'', ``Borough
+Maintenance Operations Office - Staten Island'', ``Department of Parks
+and Recreation''), variable level: The division of the New York City
+Department of Parks and Recreation to which the decapitated animal was
+reported.
+
+\subsubsection{form}\label{form}
+
+variable: FORM, variable type: categorical (``DPR General Intake''),
+variable label: This is the form they use, note: There is only one form.
+
+\subsubsection{status}\label{status}
+
+variable: STATUS, variable type: categorical (``assigned'', ``closed''),
+variable label: This variable refers to whether The Department of Parks
+and Recreation is currently on the case.
+
+\subsubsection{priority}\label{priority}
+
+variable: PRIORITY, variable type: ordinal, variable description: the
+level of priority, note: no known priority levels beyond normal exist.
+
+\subsubsection{complaint\_type}\label{complaintux5ftype}
+
+variable: COMPLAINT\_TYPE, variable type: categorical (``animal in a
+park''), variable description: the niche occupied in the Department of
+Parks and Recreation's genre-classification of complaints, notes: full
+complaints classification schema is currently unknown.
+
+\subsubsection{descriptor\_1}\label{descriptorux5f1}
+
+variable: DESCRIPTOR\_1, variable type: character field (variable
+length), variable description: a rich description of the substance of
+the complaint as reported.
+
+\subsubsection{descriptor\_2}\label{descriptorux5f2}
+
+variable: DESCRIPTOR\_2, variable type: character field (variable
+length), variable description: a second rich description of the
+substance of the complaint as reported, note: words run dry.
+
+\subsubsection{complaint\_details}\label{complaintux5fdetails}
+
+variable: COMPLAINT\_DETAILS, variable type: character field (variable
+length), variable description: the details of the complaint, as heard by
+the Department of Parks and Recreation.
+
+\subsubsection{location\_type}\label{locationux5ftype}
+
+variable: LOCATION\_TYPE, variable type: categorical (``Park''),
+variable description: park, notes: park, park. park.
+
+\subsubsection{park\_or\_facility}\label{parkux5forux5ffacility}
+
+variable: PARK\_OR\_FACILITY, variable type: character (variable
+length), variable description: the specific park or facility in which
+the decapitated animal was reported to be, notes: the park could
+theoretically be a facility, fyi, but it is not; some cases not
+specified (code: ``not specified'').
+
+\subsubsection{property\_number}\label{propertyux5fnumber}
+
+variable: property\_number, variable type: array, variable description:
+some nonsense from the Parks Department, note: missing values of
+nonsense are blank.
+
+\subsubsection{park\_district}\label{parkux5fdistrict}
+
+variable: PARK\_DISTRICT, variable type: integer, variable description:
+the number of the park district in which the complaint was filed.
+
+\subsubsection{additional\_location\_details}\label{additionalux5flocationux5fdetails}
+
+variable: additional\_location\_details, variable type: character field
+(variable length), variable description: specification of the location
+of decapitated animal within park, notes: values represented in all caps
+where originally rendered in purple crayon.
+
+\subsubsection{council\_district\_number}\label{councilux5fdistrictux5fnumber}
+
+variable: DISTRICT\_NUMBER, variable type: integer, variable
+description: remaining number of months you have to live. jk. new york
+city council district in which the decapitated animal was identified.
+
+\subsubsection{site\_street\_address}\label{siteux5fstreetux5faddress}
+
+variable: SITE\_STREET\_ADDRESS, variable type: address, variable
+description: Street address of the New York City Department of Parks and
+Recreation site at which the decapitated animal was found.
+
+\subsubsection{site\_borough}\label{siteux5fborough}
+
+variable: SITE\_BOROUGH, variable type: categorical (``manhattan'',
+``bronx'', ``brooklyn'', ``queens'', ``staten island''), variable
+description: The borough in which the site in which the identified
+decapitated animal is located.
+
+\subsubsection{site\_city\_zip}\label{siteux5fcityux5fzip}
+
+variable: SITE\_CITY\_ZIP, variable type: array, variable description:
+The city and the zip code of the site in which the identified
+decapitated animal is located.
+
+\subsubsection{lat}\label{lat}
+
+variable: LAT, variable type: numerical, variable description: latitude
+of decapitated animal.
+
+\subsubsection{long}\label{long}
+
+variable: LONG, variable type: numerical, variable description: latitude
+of decapitated animal.
+
+\subsubsection{complaint\_type\_confirmed}\label{complaintux5ftypeux5fconfirmed}
+
+variable: COMPLAINT\_TYPE\_CONFIRMED, variable type: categorical
+(``animal in a park''), variable description: please.
+
+\subsubsection{descriptor\_confirmed:}\label{descriptorux5fconfirmed}
+
+variable: DESCRIPTOR\_CONFIRMED, variable type: character (variable
+length), variable description: i can't. note: all initial DPR
+descriptions perfectly capture facts on the ground.
+
+\subsubsection{resolution\_action\_updated:}\label{resolutionux5factionux5fupdated}
+
+variable: RESOLUTION\_ACTION\_UPDATED, variable type: date, time. note:
+observations with values beginning with ``4/1'' for this variable should
+be interpreted with caution.
+
+\subsubsection{resolution\_description}\label{resolutionux5fdescription}
+
+variable: RESOLUTION\_DESCRIPTION, variable type: character, (variable
+length), variable description: resolution of the decapitated animal.
+
+\subsubsection{time\_to\_action}\label{timeux5ftoux5faction}
+
+variable: TIME\_TO\_ACTION, variable type: categorical (``Closed: No
+Further Updates'', ``Past Due''), variable description: nothing to do
+with time to action.
+
+\subsection{Appendices}\label{appendices}
+
+Appendix 1: Street addresses were used to identify the latitude and
+longitude of the park. In cases where street addresses were missing LAT
+and LONG were inferred according to a process of manual interpolation as
+follows: first, the park name alone was used; in cases where the park
+name was unavailable, the zip code in combination with the verbal
+description of the park were used in concert with visual inspection of a
+map.
+
+Appendix 2: Department of Parks and Recreation reports procured through
+FOILD program by Chen were transcribed by a freelancer named Hazel.
+
+\end{document}

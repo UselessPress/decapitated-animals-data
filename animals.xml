@@ -1,0 +1,2051 @@
+<?xml version="1.0"?>
+<incidents>
+<incident>
+<animal>Birds</animal>
+<quantity>1</quantity>
+<body_part_found>Head, Legs, Body parts separated</body_part_found>
+<date_started>4/1/2006</date_started>
+<date_closed>4/1/2006</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THE CALLER IS REPORTING THAT THERE ARE 5 BLACK BAG FILLED WITGH DEAD BIRDS CHICKEN LEGS OR ROOSTER LEGS AND THE BIRDS HAVE NAILS IN THEIR HEAD LIKE SOMEONE WAS DOING VOODOO. THIS IS NOT THE FIRST TIME THECALLER HAS REPORTED THIS. THE BAG IS INSIDE THE PARK ON THE 90 STREET ENTRANCE WITH THE WALKWAY SPLITS BY A TREE THE BAGS ARE NEXT TO IT.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK - HIPPO PLAYGROUND</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>ON THE 90 STREET ENTRANCE TAKE THE RIGHT HAND PATH WALK 100 YARD WITH THE PATH SPLIT THERE IS A BIG TREE WITH THE BAGS NEXT TO IT.</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>W 91 ST AND RIVERSIDE DR</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>44.6039413</lat>
+<lng>-75.1773599</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/1/2006</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Rooster</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/14/2006</date_started>
+<date_closed>4/19/2006</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Staten Island</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THE CALLER STATES THAT THERE IS A DEAD ROOSTER WITH IT&apos;S HEAD CUT OFF IN THE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>WILLOWBROOK PARK</park_or_facility>
+<property_number>R030</property_number>
+<park_district>2</park_district>
+<additional_location_details>CLOSER TO ASHWORTH AVE</additional_location_details>
+<council_district_number>50</council_district_number>
+<site_street_address>RICHMOND AVE TO VICTORY BLVD</site_street_address>
+<site_borough>STATEN ISLAND</site_borough>
+<site_city_zip>STATEN ISLAND 10314</site_city_zip>
+<lat>40.6080438</lat>
+<lng>-74.1572251</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/19/2006 10:16:54</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Birds</animal>
+<quantity>9</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>4/16/2006</date_started>
+<date_closed>4/16/2006</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT HE SAW NINE BIRDS WITH NO HEADS LAYING OUT IN THE BEACH, HE ALSO TWO BAGS WITH WHAT HE BELIEVES ARE FULL OF IT.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>NOT SPECIFIED</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>OPEN THE GATE LOOK DOWN AT THE BEACH AND THEY ARE ALL IN THERE. AT THE END OF EAST BOWNE STREET.</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10464</site_city_zip>
+<lat>40.864318</lat>
+<lng>-73.7977928</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/16/2006 12:52:40</resolution_action_updated>
+<resolution_description>No action was taken because the Department of Parks and Recreation determined that the issue reported was out of its jurisdiction.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Lamb</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>7/2/2006</date_started>
+<date_closed>7/2/2006</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Department of Parks and Recreation</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>clove lakes (martlings &amp; brooks pond pl): sgt a.reid rpts that a decapitated lamb was found at site (head was not at location). carcass will be removed my m&amp;o.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>CLOVE LAKES PARK</park_or_facility>
+<property_number>R005</property_number>
+<park_district>1</park_district>
+<additional_location_details>martlings &amp; brooks pond pl</additional_location_details>
+<council_district_number>49</council_district_number>
+<site_street_address>SLOSSON AVE, VICTORY BLVD, CLOVE RD</site_street_address>
+<site_borough>STATEN ISLAND</site_borough>
+<site_city_zip>STATEN ISLAND 10301</site_city_zip>
+<lat>40.6184839</lat>
+<lng>-74.1054656</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>7/2/2006 13:03:12</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Dove &amp; Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>11/11/2006</date_started>
+<date_closed></date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT HE WAS WALKING IN PELHAM BAY PARK IN THE BRONX, AND SAW A DEAD DOVE AND CHICKEN. THEY WERE SURROUNDED BY CANDLES AND COINS. THE ANIMALS WERE BEHEADED.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PELHAM BAY PARK - AILEEN RYAN RECREATION</park_or_facility>
+<property_number>X039</property_number>
+<park_district>15</park_district>
+<additional_location_details>THE BIRDS IN THE WOODED AREA NEAR THE WOODS ENTRANCE AT STADIUM AVENUE AND MIDDLETOWN ROAD.</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address>(S) MIDDLETOWN RD. TO (W) BRUCKNER</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10461</site_city_zip>
+<lat>40.8476284</lat>
+<lng>-73.8360251</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated></resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation usually requires 7 days to respond to this type of complaint. Please note your Service Request number for future reference.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pigeon</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>12/10/2006</date_started>
+<date_closed>12/11/2006</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A TWO PIGEONS THAT ARE BEHEADED AND GUTTED</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>WASHINGTON PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>ENTRANCE ON WASHINGTON PARK</additional_location_details>
+<council_district_number>35</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11215</site_city_zip>
+<lat>40.6730447</lat>
+<lng>-73.9850231</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>12/11/2006 12:43:44</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pigeon &amp; Pig</animal>
+<quantity>4</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>12/30/2006</date_started>
+<date_closed>1/9/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE ARE 3 DEAD PIGEONS IN THE PARK. THESE PIGEONS HAS BODY BUT NOT THEIR HEADS. CALLER ALSO STATED THAT THERE THERE IS A PIG&apos;S HEAD WITHOUT BODY IN THE PARK. CALLER STATED THEY ARE NEXT TO EACH OTHER.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>ST MARY&apos;S PARK</park_or_facility>
+<property_number>X045</property_number>
+<park_district>1</park_district>
+<additional_location_details>NEXT TO THE PARK NEAR THE PICKNICK TABLE AREA ON THE GRASS</additional_location_details>
+<council_district_number>17</council_district_number>
+<site_street_address>ST MARYS ST, ST ANNS AVE, E 149 ST, JACKSON</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10454</site_city_zip>
+<lat>40.8022594</lat>
+<lng>-73.9154069</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>1/9/2007 15:11:15</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>1/6/2007</date_started>
+<date_closed>1/6/2007</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>Ofc. Jajac of Qns PEP notified central of a goat head in the Meadow Lake. M&amp;O removed the head and disposed of it.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FLUSHING MEADOWS AND CORONA PARK</park_or_facility>
+<property_number>Q099</property_number>
+<park_district>15</park_district>
+<additional_location_details>Meadow Lake</additional_location_details>
+<council_district_number>21</council_district_number>
+<site_street_address>GRAND CENTRAL PKWY, VAN WYCK EXWY</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>FOREST HILLS 11375</site_city_zip>
+<lat>40.7245678</lat>
+<lng>-73.8457658</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>1/6/2007 18:09:43</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Not specified</animal>
+<quantity>2</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>2/21/2007</date_started>
+<date_closed>2/28/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STS THAT THERE ARE TWO HEADS FROM UNKNOWN ANIMAL(S) AT THE GREEN STREET AT SITE LOCATION</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>NOT SPECIFIED</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>GREEN STREET AT LOCATION</additional_location_details>
+<council_district_number>48</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11235</site_city_zip>
+<lat>40.5860069</lat>
+<lng>-73.9418603</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>2/28/2007 11:01:46</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Roosters</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/22/2007</date_started>
+<date_closed>4/23/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATED THAT THERE ARE TWO DEAD DECAPITATED WHITE ROOSTER&apos;S IN A PARK CALLED PELHAM BAY PARK. CALLER STATES THAT THERE ARE HUMAN CLOTHES NEXT TO IT, CALLER STATES THAT SHE ONLY SEES ONE HEAD. THE ANIMALS ARE BY THE DUMP RIGHT NEXT TO THE WATER AND CALLER WOULD LIKE SOME ASSISTANCE IN HAVING IT REMOVED.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PELHAM BAY PARK</park_or_facility>
+<property_number>X039</property_number>
+<park_district>15</park_district>
+<additional_location_details>NEAR THE DUMP, ONE PATH IN FROM THE WATER, NEAR DIAMOND 7</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address>BRUCKNER BLVD, EASTCHESTER, HUTCHINSON</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10461</site_city_zip>
+<lat>40.8524136</lat>
+<lng>-73.8263227</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/23/2007 14:36:01</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Bird</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>9/4/2007</date_started>
+<date_closed>10/9/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD ANIMAL. A BIRD. HEAD WAS CUT OFF</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>CENTRAL PARK</park_or_facility>
+<property_number>M010</property_number>
+<park_district>13</park_district>
+<additional_location_details>NEAR 86TH ENTRANCE WEST SIDE</additional_location_details>
+<council_district_number>8</council_district_number>
+<site_street_address>5 AVENUE TO CENTRAL PARK WEST, 59 TO 110</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10021</site_city_zip>
+<lat>40.7700703</lat>
+<lng>-73.9580246</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/9/2007 12:06:30</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>9/17/2007</date_started>
+<date_closed>10/24/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES HE FOUND A CAT HEAD PLACED ON FENCE INSIDE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>LOCATED AT THE 99 ST ENTRACE ON THE PATH ON THE UPPER LEVEL</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>RIVERSIDE DR TO HUDSON RIVER, W 59 ST TO</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.7769059</lat>
+<lng>-73.9800645</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/24/2007 11:08:57</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>9/17/2007</date_started>
+<date_closed>10/24/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES HE FOUND A CATS HEAD PLACED ON FENCE IN RIVERSIDE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK - DINASOUR PLAYGROUND</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>SOUTH OF FIREMANS MENORIAL BETWEEN 99 STREET AND 100 STREET.</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>W 97 ST AND RIVERSIDE DR</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.7965253</lat>
+<lng>-73.9741203</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/24/2007 10:59:32</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>9/17/2007</date_started>
+<date_closed>11/9/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATED THAT THERE IS A CAT IN THE CITY PARK WHICH IS DECAPITATED BY SOMEONE, CALLER STATED THIS ANIMAL NEED TO CLEAN UP AND NEED SOME ASSISTANCE. CLR STATED THE ANIMAL IS NEAR THE FIREMAN MEMORIAL.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK - DINASOUR PLAYGROUND</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>ON W 99 STREET AND RIVERSIDE DRIVE.</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>W 97 ST AND RIVERSIDE DR</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.7965253</lat>
+<lng>-73.9741203</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/9/2007 11:23:27</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>9/17/2007</date_started>
+<date_closed>11/13/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATED THAT THERE IS A CAT HEAD THAT IS ATTACHED TO STAKE THAT IS FENCED AROUND THE FIREMEN MEMORIAL.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>FIREMEN MEMORIAL AREA. WALK ON THE PATH</additional_location_details>
+<council_district_number>9</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10025</site_city_zip>
+<lat>40.8012339</lat>
+<lng>-73.9723096</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/13/2007 16:26:26</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Not specified</animal>
+<quantity>1</quantity>
+<body_part_found>Not specified</body_part_found>
+<date_started>10/24/2007</date_started>
+<date_closed>10/25/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD ANIMAL HEAD IN A BLUE PLASTIC BAG</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>BRONX PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>OPPOSITE 306 E MOSHOLU PKWY SOUTH, NEXT TO TREE IN PARK</additional_location_details>
+<council_district_number>11</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10458</site_city_zip>
+<lat>40.8621507</lat>
+<lng>-73.8807418</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/25/2007 14:23:59</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>11/19/2007</date_started>
+<date_closed>11/20/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THE CALLER STATES THAT THERE TWO DECAPITATED CHICKENS INSIDE OF THE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FRANZ SIGEL PARK</park_or_facility>
+<property_number>X047</property_number>
+<park_district>4</park_district>
+<additional_location_details>THE DEAD BIRDS ARE NEAR THE EAST 158TH STREET ENTRANCE</additional_location_details>
+<council_district_number>17</council_district_number>
+<site_street_address>NYCRR, WALTON AVE, E 158 ST, GRAND</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10451</site_city_zip>
+<lat>40.8187386</lat>
+<lng>-73.9271644</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/20/2007 14:39:17</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>12/8/2007</date_started>
+<date_closed>12/11/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATE THERE ARE ABOUT 2 DEAD CHICKENS WITHOUT HEADS IN THE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>MORNINGSIDE PARK</park_or_facility>
+<property_number>M056</property_number>
+<park_district>9</park_district>
+<additional_location_details>MORNINGSIDE DRIVE AND WEST 120 STREET ON THE STAIRS</additional_location_details>
+<council_district_number>9</council_district_number>
+<site_street_address>W 110 TO W 123 ST, MANHATTAN AVE TO</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10026</site_city_zip>
+<lat>40.8032131</lat>
+<lng>-73.9525825</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>12/11/2007 9:46:09</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>12/15/2007</date_started>
+<date_closed>12/26/2007</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A DEAD ANIMAL IN THE ENTRANCE OFF THE PARK. ITS A DEAD CHICKEN WITH HIS HEAD CUT OFF.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>WILLIAMSBRIDGE OVAL -P G MINI POOL AND</park_or_facility>
+<property_number>X104</property_number>
+<park_district>7</park_district>
+<additional_location_details>IN THE PARK</additional_location_details>
+<council_district_number>11</council_district_number>
+<site_street_address>RESERVOIR OVAL EAST, HOLT PL</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10467</site_city_zip>
+<lat>40.8765981</lat>
+<lng>-73.8765489</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>12/26/2007 8:42:05</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>3/25/2008</date_started>
+<date_closed>3/27/2008</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER IS REPORTING THAT THERE ARE TWO DEAD CHICKENS IN THE PARK WITH THEIR HEADS CUT OFF. IT IS BY THE WATER FRONT NEAR NORTH WEST BARBEQUE AREA.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FERRY POINT PARK</park_or_facility>
+<property_number>X126</property_number>
+<park_district>10</park_district>
+<additional_location_details>NORTH WEST BARBEQUE AREA BY THE WATER FRONT.</additional_location_details>
+<council_district_number>18</council_district_number>
+<site_street_address>WESTCHESTER CR, SCHLEY, EMERSON AVES.</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10465</site_city_zip>
+<lat>40.8262186</lat>
+<lng>-73.8242621</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/27/2008 14:37:19</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>4/8/2008</date_started>
+<date_closed>4/9/2008</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER SAID THAT THERE IS A DEAD GOAT WITH NOT HEAD, LOCATED BY THE WATER AT THE BEGINNING OF THE BEACK IN THE PARK.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FERRY POINT PARK</park_or_facility>
+<property_number>X126</property_number>
+<park_district>10</park_district>
+<additional_location_details>BY WATER OF THE BEACH.</additional_location_details>
+<council_district_number>18</council_district_number>
+<site_street_address>WESTCHESTER CR, SCHLEY, EMERSON AVES.</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10465</site_city_zip>
+<lat>40.8262186</lat>
+<lng>-73.8242621</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/9/2008 14:17:26</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Turtle</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>4/24/2008</date_started>
+<date_closed>4/24/2008</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>PS2 J BROPHY RPTS THAT THERE ARE SOME TURTLES WITH MISSING HEAD.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>CAPT TILLY PARK</park_or_facility>
+<property_number>Q052</property_number>
+<park_district>8</park_district>
+<additional_location_details>HIGHLAND AVE OFF 164 STREET</additional_location_details>
+<council_district_number>24</council_district_number>
+<site_street_address>HIGHLAND AVE, UPLAND PKWY, GOTHIC PKWY</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>JAMAICA 11436</site_city_zip>
+<lat>40.7138051</lat>
+<lng>-73.7956131</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/24/2008 15:59:09</resolution_action_updated>
+<resolution_description>Upon inspection the reported condition was not found, and, therefore, no action was taken.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat (Unsure)</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/26/2008</date_started>
+<date_closed>4/30/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>a caller stated that in riverside park there is a dead animal. the caller thinks that its a goat with its head cut off.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>down on the ramp on righthand side. there a box next to the goat</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10069</site_city_zip>
+<lat>40.7797981</lat>
+<lng>-73.9893241</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/30/2008 15:33:44</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Hens &amp; Pigeons</animal>
+<quantity>5</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>5/5/2008</date_started>
+<date_closed>5/8/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THERE IS 2 Large HENS THAT ARE HEADLESS AND 3 Pigeons HEADLESS.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FORT GREENE PARK</park_or_facility>
+<property_number>B032</property_number>
+<park_district>2</park_district>
+<additional_location_details>the entrance of myrtle ave and st edwards</additional_location_details>
+<council_district_number>35</council_district_number>
+<site_street_address>MYRTLE AVENUE, CUMBERLAND ST, DEKALB AVE </site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11201</site_city_zip>
+<lat>40.6898249</lat>
+<lng>-73.9812036</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>5/8/2008 16:55:32</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Bird</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>11/14/2008</date_started>
+<date_closed>11/14/2008</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE ARE 2 WHITE BIRDS IN A BAG WITH THEIR HEADS CUT OFF</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK - SKATE PARK</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>CALLER STATES BY 106 ST AND RIVERSIDE DRIVE, LOCATED IN THE WALKING PROMONADE BY A TREE BY THE WALL.</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>WEST 109TH STREET AND RIVERSIDE DRIVE</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.8042197</lat>
+<lng>-73.9686798</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/14/2008 16:50:35</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Turkey or Chicken</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>3/25/2009</date_started>
+<date_closed>3/25/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Staten Island</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT WHILE WALKING HIS DOG IN THE PARK THEY CAME ACROSS EITHER A DEAD TURKEY OR CHICKEN WITH THE HEAD OFF. THE HEAD IS NOWHERE TO BE FOUND.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>CLOVE LAKES PARK - WAR MEMORIAL ICE</park_or_facility>
+<property_number>R005</property_number>
+<park_district>1</park_district>
+<additional_location_details>INSIDE THE PARK BY PINE TREES</additional_location_details>
+<council_district_number>49</council_district_number>
+<site_street_address>VICTORY BOULEVARD, WEST OF CLOVE ROAD</site_street_address>
+<site_borough>STATEN ISLAND</site_borough>
+<site_city_zip>STATEN ISLAND 10301</site_city_zip>
+<lat>40.6184839</lat>
+<lng>-74.1054656</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/25/2009 20:18:02</resolution_action_updated>
+<resolution_description>The condition was determined to be an issue appropriate for handling by an alternate entity. The Department of Parks and Recreation has notified the appropriate resource.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat, Rooster and Other animals</animal>
+<quantity>2</quantity>
+<body_part_found>Goat&apos;s Head &amp; Rib Cage, Other body parts of other animals.</body_part_found>
+<date_started>4/18/2009</date_started>
+<date_closed>4/21/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES: FOUND A GOATS HEAD, A BLACK ROOSTER AND SOME OTHER BODY PARTS OF ANIMALS. THERE IS ALSO A BIG RIB CAGE OF THE GOATS WITHOUT ANY MEAT ON IT.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FOREST PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>ENTER PARK LANE SOUTH AND MYRTLE. ITS ON THE ORANGE TRAIL AND CALLER DOESN&apos;T MIND TO COME OUT AND SHOW THE EVIDENCE.</additional_location_details>
+<council_district_number>30</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>RICHMOND HILL 11418</site_city_zip>
+<lat>40.6998251</lat>
+<lng>-73.8312457</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/21/2009 9:34:18</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Roosters</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/27/2009</date_started>
+<date_closed>4/28/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER&apos;S REQUESTING DEAD ROOSTERS BE REMOVED ON THE PUBLIC BEACH WITH THEIR HEAD CUT OFF. CALLER STATES ITS ABOUT TWO OR THREE ROSTERS DEAD.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>DR. CHARLES R. DREW MEMORIAL PARK</park_or_facility>
+<property_number>Q220C</property_number>
+<park_district>12</park_district>
+<additional_location_details>ON THE BEACH AREA BY 95 STREET. CALLER STATES DPR COULD TAKE WALK ON BEACH BEAR SAND TO LOCATE DEAD ANIMAL</additional_location_details>
+<council_district_number>28</council_district_number>
+<site_street_address>VAN WYCK EXPRESSWAY, 116TH AVENUE, 140TH</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>JAMAICA 11436</site_city_zip>
+<lat>40.6718171</lat>
+<lng>-73.7977928</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/28/2009 12:20:48</resolution_action_updated>
+<resolution_description>No action was taken because the Department of Parks and Recreation determined that the issue reported was out of its jurisdiction.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>6/10/2009</date_started>
+<date_closed>6/10/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A DEAD, HEADLESS CHICKEN INSIDE THE PARK. THERE IS A HEINEKEN BOX THERE THAT WAS PROBABLY USED TO TRANSPORT THE CHICKEN.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK</park_or_facility>
+<property_number>M042</property_number>
+<park_district>12</park_district>
+<additional_location_details>ENTRANCE OF THE PARK ACROSS FROM 115 PAYSON AVE WALK UP THE PATH TO THE FIRST STAIRCASE ON THE LEFT, CHICKENS IS ON THE BOTTOM OF THE STAIRS.</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HARLEM</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>6/10/2009 20:57:28</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>9/28/2009</date_started>
+<date_closed>9/29/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD GOAT ON A BEACH, HEADLESS</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PELHAM BAY PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>CITY ISLAND BRIDGE ON PELHAM BAY SIDE OF BRIDGE, SOUTH SIDE</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10464</site_city_zip>
+<lat>40.8615</lat>
+<lng>-73.7972</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>9/29/2009 15:25:13</resolution_action_updated>
+<resolution_description>Upon inspection the reported condition was not found, and, therefore, no action was taken.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Not specified</body_part_found>
+<date_started>10/22/2009</date_started>
+<date_closed>10/26/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER IS REPORTING 2-3 DECAPITATED CHICKEN IN A PARK NEXT TO THE SIDEWALK BUT ON THE PROPERTY LINE OF THE PARK.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FORT TYRON PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>ON THE CABRINI BLVD SIDE OF PARK</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10040</site_city_zip>
+<lat>40.862009</lat>
+<lng>-73.9323081</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/26/2009 16:04:17</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Bird</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>10/30/2009</date_started>
+<date_closed>11/5/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A BEHEADED BIRD INSIDE THE PARK. CALLER SAYS THAT IT IS BIG BIRD</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK - RIVER RUN PLAYGROUND</park_or_facility>
+<property_number>M071-08</property_number>
+<park_district>114</park_district>
+<additional_location_details>CALLER STATES THAT THE LOCATION IS DIAGONALLY ACROSS FROM 86 RIVERSIDE DRIVE. IN THE MIDDLE OF THE SIDEWALK THAT GOES DOWN THE STAIRS TO THE PARK AREA</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>WEST 83RD STREET AND RIVERSIDE DRIVE</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.7877029</lat>
+<lng>-73.9811609</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/5/2009 16:09:36</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pigeon &amp; Rooster</animal>
+<quantity>5</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>11/18/2009</date_started>
+<date_closed>11/18/2009</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE ARE 5 PIGEON AND ROOSTER IN THE PARK WITH NO HEAD. CALLER WOULD LIKE IT TO BE REMOVED INSIDE THE PLAYGROUND TOWARD WHERE THE SWINGS ARE LOCATED AT THE LEFT SIDE.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>WEST PLAYGROUND</park_or_facility>
+<property_number>B252</property_number>
+<park_district>13</park_district>
+<additional_location_details>IN THE PLAYGROUND</additional_location_details>
+<council_district_number>47</council_district_number>
+<site_street_address>AVENUE Z AND WEST 1ST STREET</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11223</site_city_zip>
+<lat>40.5862137</lat>
+<lng>-73.970355</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>11/18/2009 18:35:15</resolution_action_updated>
+<resolution_description>The condition was determined to be an issue appropriate for handling by an alternate entity. The Department of Parks and Recreation has notified the appropriate resource.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat &amp; Chicken</animal>
+<quantity>2</quantity>
+<body_part_found>Goat&apos;s Head, Whole Chicken</body_part_found>
+<date_started>2/8/2010</date_started>
+<date_closed>2/9/2010</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>PRM D. Mercado rpts there is a goat&apos;s head and a dead chicken found at this location. NYPD is en route. Pics have been taken. M&amp;O will remove it.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>HIGHBRIDGE PARK</park_or_facility>
+<property_number>M037</property_number>
+<park_district>12</park_district>
+<additional_location_details>190th street &amp; Amsterdam</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>WEST 155TH AND DYCKMAN STREETS</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10039</site_city_zip>
+<lat>40.8681918</lat>
+<lng>-73.9310449</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>2/9/2010 15:14:54</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pigeon</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>2/18/2010</date_started>
+<date_closed>2/18/2010</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>INWOOD HILL PK (PAYSON AVE &amp; 207 ST)-2/18/2010-1029. As per Sgt. K. Clifford, a decapitated pigeon was found nailed to a tree, located on the right hand side of the staircase. NYPD has been notified. Pics taken.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK</park_or_facility>
+<property_number>M042</property_number>
+<park_district>12</park_district>
+<additional_location_details>Payson Ave &amp; 207 St</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HARLEM</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>2/18/2010 11:16:07</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cat</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>3/28/2010</date_started>
+<date_closed>3/30/2010</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>Sgt. Clifford rpts decapitated cat found in Inwood Hill Park</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK</park_or_facility>
+<property_number>M042</property_number>
+<park_district>12</park_district>
+<additional_location_details>204 Street &amp; Payson Street</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HARLEM</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/30/2010 11:56:10</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Not specified</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>3/28/2010</date_started>
+<date_closed>3/30/2010</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A DEAD ANIMAL IN THE PARK. IT IS A LARGE ANIMAL. THE ANIMAL IS MISSING A HEAD. IT HAS WHITISH FUR. IT IS COVERED PARTIALLY BY TREE BRANCHES.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PROSPECT PARK - OCEAN AVENUE</park_or_facility>
+<property_number>B073</property_number>
+<park_district>19</park_district>
+<additional_location_details>THE ANIMAL IS COUPLE BLOCKS SOUTH FROM LINCOLN ROAD. IT IS RIGHT UNDER A HUGE TREE THAT FELL AND WAS CHOPPED UP BY PARKS WORKERS. IT ALSO CLOSE TO WOLLMAN&apos;S RINK AND A KID&apos;S PLAYGROUND (IMAGINATION PLAYGROUND) ABOUT 100 FEET.</additional_location_details>
+<council_district_number>39</council_district_number>
+<site_street_address>PERGOLA, LINCOLN ROAD, EAST LAKE DRIVE</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11215</site_city_zip>
+<lat>40.6536364</lat>
+<lng>-73.9976433</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/30/2010 15:51:18</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Not specified</animal>
+<quantity>3</quantity>
+<body_part_found>Not specified</body_part_found>
+<date_started>4/7/2010</date_started>
+<date_closed>4/8/2010</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CLR STATES THAT THERE ARE THREE (3) DISCARDED ANIMAL HEADS IN THE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>KISSENA CORRIDOR PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>WALK FROM COLDEN ST LEADING TOWARDS MAINT ST NEXT TO DEPRESSION WATER. THERE IS A BASEBALL COURT IN RIGHT SIDE, BASKETBALL FIELD IN THE LEFT SIDE.</additional_location_details>
+<council_district_number>20</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>FLUSHING 11355</site_city_zip>
+<lat>40.7473524</lat>
+<lng>-73.820586</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/7/2010 23:59:37</resolution_action_updated>
+<resolution_description>The Service Request submitted did not have sufficient location or complaint information for the agency to respond.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Bird</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/11/2010</date_started>
+<date_closed>4/16/2010</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>TWO LARGE WHITE BIRDS W/ HEADS CHOPPED OFF</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>RIVERSIDE PARK</park_or_facility>
+<property_number>M071</property_number>
+<park_district>14</park_district>
+<additional_location_details>ON STONE WALL BTWN 72ND ST &amp; 73RD ST</additional_location_details>
+<council_district_number>6</council_district_number>
+<site_street_address>RIVERSIDE DRIVE TO HUDSON RIVER, WEST</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10023</site_city_zip>
+<lat>40.7769059</lat>
+<lng>-73.9800645</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/16/2010 17:01:27</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>4</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>6/24/2010</date_started>
+<date_closed>6/24/2010</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>BK-FORT GREENE PK (20 FT FROM VISITORS CENTER)-6/24/2010-1612: UPR A. Marsala rpts the carcass of four decapitated chickens were found at this location. The rangers disposed of the remains.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FORT GREENE PARK</park_or_facility>
+<property_number>B032</property_number>
+<park_district>2</park_district>
+<additional_location_details>20 FROM VISITOR CENTER</additional_location_details>
+<council_district_number>35</council_district_number>
+<site_street_address>MYRTLE AVENUE, CUMBERLAND STREET</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11201</site_city_zip>
+<lat>40.6962594</lat>
+<lng>-73.9744475</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>6/24/2010 16:57:56</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pigeon</animal>
+<quantity>2</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>6/30/2010</date_started>
+<date_closed>6/30/2010</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Department of Parks and Recreation</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CSA Ranger Sarah Hackney rpts that two decapitated pigeons were discovered at the above site Pigeons were disposed by M&amp;O Pictures were taken. Rpt bled. RIZ</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FOREST PARK</park_or_facility>
+<property_number>Q015</property_number>
+<park_district>16</park_district>
+<additional_location_details>FOREST PK DRIVE &amp; OAK RIDGE</additional_location_details>
+<council_district_number>30</council_district_number>
+<site_street_address>MYRTLE AVENUE, UNION TURNPIKE, PARK LANE</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>RIDGEWOOD 11385</site_city_zip>
+<lat>40.6974069</lat>
+<lng>-73.8538296</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>6/30/2010 12:52:05</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>2/7/2011</date_started>
+<date_closed>2/9/2011</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD HEADLESS CHICKEN INSIDE A BROWN GROCERY STORE PLASTIC BAG.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FORT GREENE PARK</park_or_facility>
+<property_number>B032</property_number>
+<park_district>2</park_district>
+<additional_location_details>INSIDE THE FENCED AREA, IN FRONT OF THE TENIS COURT ACROSS FROM THE SOUTH PORTLAND AND DEKALB ENTRANCE.</additional_location_details>
+<council_district_number>35</council_district_number>
+<site_street_address>MYRTLE AVENUE, CUMBERLAND STREET</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11201</site_city_zip>
+<lat>40.6962594</lat>
+<lng>-73.9744475</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>2/9/2011 11:20:01</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>4</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>3/10/2011</date_started>
+<date_closed>3/15/2011</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT THERE IS A HINDU POPULATION WHERE THE SET UP BLACK AND WHITE FLAGS LEAVING A YELLOW CLOTH THEIR SCARIFIED ANIMAL SUCH AS GOAT LEAVING JUST THE HEADS AND THROWING THE BODIES INTO TO WATER FRONT. FOUR BODIES DEAD CHICKENS, HEAD MISSING, THIS CEREMONY IS HELD ON FEBRUARY 25. AFTER THE CEREMONY EVERYTHING IS LEFT AT THE LOCATION.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FERRY POINT PARK</park_or_facility>
+<property_number>X126</property_number>
+<park_district>10</park_district>
+<additional_location_details>on the north section of the park along the water front</additional_location_details>
+<council_district_number>18</council_district_number>
+<site_street_address>WESTCHESTER COURT, SCHLEY AND EMERSON</site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10465</site_city_zip>
+<lat>40.8262186</lat>
+<lng>-73.8242621</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/15/2011 9:16:28</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Birds (Eagle, Hawk, Pigeon)</animal>
+<quantity>10</quantity>
+<body_part_found>Not specified</body_part_found>
+<date_started>4/25/2011</date_started>
+<date_closed>4/26/2011</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER SAYS THAT THERE WAS SOME RITUAL IN A PARK WHERE A LOT OF BIRDS WAS DECAPITATED. THERE ARE AT LEAST 10 BIRDS SOME OF THE BIRDS LOOKED LIKE AN EAGLE, AN HAWK AND PIGEONS</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>VETERAN&apos;S MEMORIAL PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>VETERANS MEMORIAL PARK THE BIRDS ARE RIGHT BEFORE THE BASEBALL DIAMOND</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10465</site_city_zip>
+<lat>40.825069</lat>
+<lng>-73.815498</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/26/2011 13:50:55</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>10/4/2011</date_started>
+<date_closed>10/4/2011</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD GOAT IN THE PATH OF PROSPECT PARK, RESIDENT CLAIMS THERE IS A DECAPITATED HEAD OF THE ANIMAL LYING IN THE PATHWAY OF THE PARK.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PROSPECT PARK - GRAND ARMY PLAZA</park_or_facility>
+<property_number>B073</property_number>
+<park_district>19</park_district>
+<additional_location_details>ANIMAL IS LOCATED NORTHEND OF THE PARK AT GRAND ARMY PLAZA ON THE EAST PATHWAY</additional_location_details>
+<council_district_number>39</council_district_number>
+<site_street_address>PLAZA STREET EAST, PLAZA STREET WEST</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11215</site_city_zip>
+<lat>40.6751451</lat>
+<lng>-73.9693182</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/4/2011 13:06:35</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Dog</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>2/20/2012</date_started>
+<date_closed>2/21/2012</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>CALLER STATES THAT SHE IS BROOKLYN RESIDENT WHO OFTEN WALKS HER DOG AROUND NEARBY PARK VICINITY APPROX 10:30 AM AND DISCOVERED A SEVERED DOGS HEAD ON SW CORNER-44 ST BET 5-6 AVE BY A ROW OF TREES BY THE CONSTRUCTION SITE. THE HEAD WAS SMALL DOG HAD GOLDEN BROWN FUR AND WAS RELATIVELY SMALL IN SIZE. THERE WAS DRIED UP BLOOD AT AREA. (THERE WAS BLUNT SEPARATION AT BASE OF JAW). CALLER FOUND DEPT OF PARKS EMPLOYEES AND NOTIFIED OF DISCOVERY THERE WERE NO OTHER PEDESTRIANS AROUND AND PARK HAD PEOPLE ENJOYING THE WEATHER.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>SUNSET PARK</park_or_facility>
+<property_number>B087</property_number>
+<park_district>7</park_district>
+<additional_location_details>BY GREENERY/TREES NEXT TO NEW CONSTRUCTION SITE - BUILDING</additional_location_details>
+<council_district_number>38</council_district_number>
+<site_street_address>41ST TO 44TH STREETS, 5TH TO 7TH AVENUES</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11232</site_city_zip>
+<lat>40.6560436</lat>
+<lng>-74.0079781</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>2/21/2012 11:35:50</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>10</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>4/28/2012</date_started>
+<date_closed>4/28/2012</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>ABOUT 10 HEADLESS CHICKENS LEFT ON THE TRAIL</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>ALLEY POND PARK</park_or_facility>
+<property_number>Q001</property_number>
+<park_district>13</park_district>
+<additional_location_details>THE TRAIL IS PAST THE WEATHER STATION ON THE LEFT SIDE BEFORE THE ADVENTURE COURSE</additional_location_details>
+<council_district_number>23</council_district_number>
+<site_street_address>LITTLE NECK BAY TO SPRING BOULEVARD</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>BELLEROSE 11426</site_city_zip>
+<lat>40.7349144</lat>
+<lng>-73.7213063</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/28/2012 14:45:11</resolution_action_updated>
+<resolution_description></resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>12</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>4/29/2012</date_started>
+<date_closed>4/30/2012</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>12 BEHEADED CHICKENS IN THE PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>ALLEY POND PARK</park_or_facility>
+<property_number>Q001</property_number>
+<park_district>13</park_district>
+<additional_location_details>ABOUT 100-150 FT INTO THE PARK. AT 69-82 230TH STREET QUEENS, OAKLAND GARDEN 11364</additional_location_details>
+<council_district_number>23</council_district_number>
+<site_street_address>LITTLE NECK BAY TO SPRING BOULEVARD</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>BELLEROSE 11426</site_city_zip>
+<lat>40.7349144</lat>
+<lng>-73.7213063</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/30/2012 9:17:24</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Roosters</animal>
+<quantity>2</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>1/30/2013</date_started>
+<date_closed>1/31/2013</date_closed>
+<source></source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>2 headless roosters</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK</park_or_facility>
+<property_number>MO42</property_number>
+<park_district>12</park_district>
+<additional_location_details>Dead animals are just off the embankment of the path leading into the park from Payson Avenue, the entrance closes to Dyckman. Animals are located where the rock wall is missing as the path curves up the hill into the woods.</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HARLEM</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>1/31/2013 15:11:26</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>2/7/2013</date_started>
+<date_closed>2/16/2015</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>Caller states that as she was walking her dog in the park, she spotted what appears to be a goat head.  If you are on the path heading around the (museum) cloistures, heading North on the left side of the museum at the point where the path forks, (left or right) it is located in the V of the fork.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>FORT TRYON PARK-ANNE LOFTUS</park_or_facility>
+<property_number>M029-02</property_number>
+<park_district>112</park_district>
+<additional_location_details>BROADWAY AND DYCKMAN STREET. If you are on the path heading around the (museum) cloistures, heading North on the left side of the museum at the point where the path forks, (left or right) it is located in the V of the fork. </additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>BROADWAY AND DYCKMAN STREET</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10033</site_city_zip>
+<lat>40.8655743</lat>
+<lng>-73.9272707</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>12/16/2013 11:57:18</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>3/20/2013</date_started>
+<date_closed>3/25/2013</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE IS A DEAD GOAT IN PARK. THE HEAD IS HANGING FROM A TREE AND THE BODY IS ON THE GROUND IN THE SNOW.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>HIGHBRIDGE PARK - FORT GEORGE</park_or_facility>
+<property_number>M037-09</property_number>
+<park_district>112A</park_district>
+<additional_location_details>BEHIND THE FENCE BY CHILDREN&apos;S SWING, NEAR THE TRAIL</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>FORT GEORGE AND SAINT NICHOLAS AVENUES</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10039</site_city_zip>
+<lat>40.8567322</lat>
+<lng>-73.9283922</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>3/5/2013 16:28:37</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>9/28/2013</date_started>
+<date_closed>9/30/2013</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>ITS A GOAT HEAD IN A BOWL WITH FEATHERS AROUND AT THE ENTRANCE OF THIS PARK</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PROSPECT PARK - GARFIELD TOT LOT</park_or_facility>
+<property_number>B073-02D</property_number>
+<park_district>319</park_district>
+<additional_location_details>AT THE GARFIELD STREET AND PROSPECT PARK WEST ENTRANCE</additional_location_details>
+<council_district_number>39</council_district_number>
+<site_street_address>WEST DRIVE OPPOSITE GARFIELD PLACE</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11215</site_city_zip>
+<lat>40.6734667</lat>
+<lng>-73.9794251</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>9/30/2013 16:24:26</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat (Unsure)</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>1/2/2014</date_started>
+<date_closed>1/10/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE IS A DEAD ANIMAL (MAYBE A GOAT) THAT WAS BEHEADED AND THE HEAD OF THE ANIMAL IS PINNED UP ON ONE OF THE TREES ABOUT 100 FEET INSIDE OF THE CHILDREN&apos;S PLAYGROUND. THE BODY OF THE ANIMAL IS WRAPPED IN A RED SHEET AND ON THE GROUND.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>HIGHBRIDGE PARK - FORT GEORGE</park_or_facility>
+<property_number>M037-09</property_number>
+<park_district>112A</park_district>
+<additional_location_details>ABOUT 100 FEET WITHIN THE ENTRANCE</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>FORT GEORGE AND SAINT NICHOLAS AVENUES</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10039</site_city_zip>
+<lat>40.8567322</lat>
+<lng>-73.9283922</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>1/10/2014 10:17:03</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Chicken</animal>
+<quantity>3</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>1/13/2014</date_started>
+<date_closed>1/13/2014</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>MN-INWOOD HILL PK (ISHAM &amp; SEAMAN AVES)-1/13/2014-1311 UPR J. Siegler rpts three decapitated chickens were found inside of a box adjacent to the flagpole inside of the park. Parks report filed. MDR.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK</park_or_facility>
+<property_number>M042</property_number>
+<park_district>12</park_district>
+<additional_location_details>Isham and Seaman Aves</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HARLEM</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>1/13/2014 14:33:03</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goose</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>4/25/2014</date_started>
+<date_closed>4/25/2014</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>decapitated goose</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>MARINE PARK</park_or_facility>
+<property_number>B057</property_number>
+<park_district>18</park_district>
+<additional_location_details>off the main path</additional_location_details>
+<council_district_number>46</council_district_number>
+<site_street_address>FLATBUSH, GERRITSE AND FILLMORE</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11235</site_city_zip>
+<lat>40.6066332</lat>
+<lng>-73.9404963</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>4/25/2014 17:50:56</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Duck</animal>
+<quantity>3</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>6/6/2014</date_started>
+<date_closed>6/9/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>PERSONS HAVE FOUND 1 DUCK, AND 2 DOVES, DEAD IN THE PARK, DECAPITATED, IN POSSIBLY SOME SORT OF RITUAL, DUE TO PLACING OF THE DUCK/DOVES IN A CERTAIN WAY. THE BODIES ARE FORMING A RING, AND THE HEADS ARE VERY CLOSE TO THIS RING. THE ITEMS ARE BEHIND A BENCH, RIGHT BEHIND A WALK PATH, APPROX. 10-15 FT FROM A STATUE FOR DR. RONALD MCNAIR. PARK MAY BE CALLED &quot;DR. RONALD MCNAIR PARK&quot;</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PROSPECT PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>TO ENTER THE PARK, GO TO CLASSON AVENUE ENTRANCE, WHICH IS APPROX. 50 FT SOUTH OF EASTERN PARKWAY AND THE INTERSECTION.</additional_location_details>
+<council_district_number>35</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11238</site_city_zip>
+<lat>40.6653604</lat>
+<lng>-73.9653575</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>6/9/2014 12:02:15</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Not specified</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>6/27/2014</date_started>
+<date_closed>6/27/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE IS A DEAD ANIMAL&apos;S HEAD ON A STICK ON THE GROUND</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>ST NICHOLAS PARK</park_or_facility>
+<property_number>M077</property_number>
+<park_district>9</park_district>
+<additional_location_details>ON THE UPPER PATHWAY GOING UP NORTH ON THE RIGHT HAND SIDE SITTING BETWEEN 136 AND 138 STREETS</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>SAINT NICHOLAS AVENUE TO SAINT NICHOLAS</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10027</site_city_zip>
+<lat>40.8138912</lat>
+<lng>-73.9624327</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>6/27/2014 14:42:44</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Pig</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>7/8/2014</date_started>
+<date_closed>7/10/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Bronx</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE IS A PIG&apos;S HEAD AT THIS LOCATION. THE HEAD IS IN BETWEEN THE ROCKS, ON THE BEACH KILROE BEACH.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PELHAM BAY PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>BEHIND THE BASKET BALL COURT</additional_location_details>
+<council_district_number>13</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>BRONX</site_borough>
+<site_city_zip>BRONX 10464</site_city_zip>
+<lat>40.8615</lat>
+<lng>-73.7972</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>7/10/2014 8:20:09</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has inspected the situation in question and determined that the issue is out of its jurisdiction.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Body Without Head</body_part_found>
+<date_started>7/10/2014</date_started>
+<date_closed>7/10/2014</date_closed>
+<source>Department of Parks and Recreation</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>MN GAP-INWOOD HILL PK (DYKMAN FIELDS)-7/10/14-1330, PS Dennis Shea reports that a headless goat was found at the location. Pictures were taken, and a report will be lifted with 34 pct. RS</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>INWOOD HILL PARK - DYCKMAN FIELDS</park_or_facility>
+<property_number>M042</property_number>
+<park_district>12</park_district>
+<additional_location_details>DYKMAN FIELDS</additional_location_details>
+<council_district_number>7</council_district_number>
+<site_street_address>DYCKMAN STREET, HUDSON RIVER, HUDSON</site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10034</site_city_zip>
+<lat>40.8721452</lat>
+<lng>-73.9212858</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>7/10/2014 14:06:06</resolution_action_updated>
+<resolution_description>The condition was determined to be an emergency issue and NYPD was notified.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Bird</animal>
+<quantity>1</quantity>
+<body_part_found>Whole body</body_part_found>
+<date_started>8/16/2014</date_started>
+<date_closed>8/19/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Manhattan</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE&apos;S A SMALL DEAD BIRD UNDER THE BENCH. ITS IN THE PUBLIC DOG RUN.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>STUYVESANT SQUARE</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>IT&apos;S ON THE EAST SIDE OF 2ND AVENUE BETWEEN 15TH AND 16TH STREET</additional_location_details>
+<council_district_number>2</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>MANHATTAN</site_borough>
+<site_city_zip>NEW YORK 10003</site_city_zip>
+<lat>40.7336111</lat>
+<lng>-73.984</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>8/19/2014 11:02:20</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Cow</animal>
+<quantity>1</quantity>
+<body_part_found>Head &amp; Intestines</body_part_found>
+<date_started>9/28/2014</date_started>
+<date_closed>10/2/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>THERE IS A DEAD BABY COW&apos;S HEAD ON THE ROCKS OF THE BEACH AS WELL AS INTESTINES A FEW FEET AWAY.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>BRIGHTON BEACH</park_or_facility>
+<property_number>B169A</property_number>
+<park_district>13</park_district>
+<additional_location_details>ON CONEY ISLAND AVENUE BY THE ROCKS</additional_location_details>
+<council_district_number>47</council_district_number>
+<site_street_address>BRIGHTON 2ND STREET AND BOARDWALK</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11235</site_city_zip>
+<lat>40.5753217</lat>
+<lng>-73.9566791</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/2/2014 13:06:07</resolution_action_updated>
+<resolution_description>Upon inspection the reported condition was not found, and, therefore, no action was taken.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head and Body</body_part_found>
+<date_started>10/12/2014</date_started>
+<date_closed>10/15/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>DEAD GOAT IN THE PARK WITH ITS HEAD CUT OFF. I WAS WALKING MY DOG AND NOTICE IT THIS MORNING.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>POWELL PARK</park_or_facility>
+<property_number></property_number>
+<park_district></park_district>
+<additional_location_details>NEAR THE WEEDS IN THE PARK</additional_location_details>
+<council_district_number>19</council_district_number>
+<site_street_address></site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>COLLEGE POINT 11356</site_city_zip>
+<lat>40.7939354</lat>
+<lng>-73.842644</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>10/15/2014 12:00:22</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+<incident>
+<animal>Squirrels</animal>
+<quantity>7</quantity>
+<body_part_found>6 Whole body &amp; 1 Decapitated</body_part_found>
+<date_started>12/7/2014</date_started>
+<date_closed></date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Queens</division>
+<form>DPR General Intake</form>
+<status>Assigned</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>I&apos;VE SEEN AS MUCH AS SEVEN DEAD SQUIRRELS DEAD IN THE PARK. I&apos;VE SEEN ONE THAT WAS DECAPITATED.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>ASTORIA PARK</park_or_facility>
+<property_number>Q004</property_number>
+<park_district>1</park_district>
+<additional_location_details>ON THE BASE OF 23 AVENUE BUT ITS ALL OVER THE PARK.</additional_location_details>
+<council_district_number>22</council_district_number>
+<site_street_address>ASTORIA PARK SOUTH, 21ST STREET, HOYT</site_street_address>
+<site_borough>QUEENS</site_borough>
+<site_city_zip>ASTORIA 11105</site_city_zip>
+<lat>40.7787902</lat>
+<lng>-73.9065883</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated></resolution_action_updated>
+<resolution_description></resolution_description>
+<time_to_action>Past Due</time_to_action>
+</incident>
+<incident>
+<animal>Goat</animal>
+<quantity>1</quantity>
+<body_part_found>Head</body_part_found>
+<date_started>12/7/2014</date_started>
+<date_closed>12/8/2014</date_closed>
+<source>3-1-1 Call Center</source>
+<division>Borough Maintenance Operations Office - Brooklyn</division>
+<form>DPR General Intake</form>
+<status>Closed</status>
+<priority>Normal</priority>
+<complaint_type>Animal in a Park</complaint_type>
+<descriptor_1>Dead Animal</descriptor_1>
+<descriptor_2>N/A</descriptor_2>
+<complaint_details>HEAD OF A GOAT. I HAVE A PHOTO OF THE DEAD ANIMAL.</complaint_details>
+<location_type>Park</location_type>
+<park_or_facility>PROSPECT PARK</park_or_facility>
+<property_number>B073</property_number>
+<park_district>19</park_district>
+<additional_location_details>NEAR THE ENTRANCE OF GRAND ARMY AND KEEP LEFT, PASS THE ARCH AND GO UP THE HILL, RIGHT BEFORE THE RIDGE PATH CONNECTS WITH THE PAVED PATH.</additional_location_details>
+<council_district_number>39</council_district_number>
+<site_street_address>PROSPECT PARK WEST, FLATBUSH, PARKSIDE</site_street_address>
+<site_borough>BROOKLYN</site_borough>
+<site_city_zip>BROOKLYN 11215</site_city_zip>
+<lat>40.6508437</lat>
+<lng>-73.9686143</lng>
+<complaint_type_confirmed>Animal in a Park</complaint_type_confirmed>
+<descriptor_confirmed>Dead Animal</descriptor_confirmed>
+<resolution_action_updated>12/8/2014 16:43:50</resolution_action_updated>
+<resolution_description>The Department of Parks and Recreation has completed the requested work order and corrected the problem.</resolution_description>
+<time_to_action>Closed: No Further Updates</time_to_action>
+</incident>
+</incidents>
