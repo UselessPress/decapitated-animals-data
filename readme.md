@@ -24,7 +24,7 @@ You may download the dataset in the following formats:
 * [excel](animals.xlsx)
 * [json](animals.json)
 * [sql](animals.sql)
-* [mp3](animals.mp3) (read by Amelia Winger-Bearskin)
+* [mp3](animals.mp3) (rows 1-22, read by [Amelia Winger-Bearskin](http://www.studioamelia.com/))
 
 The data has been coded for easier analysis. You can download the codebook here:
 
@@ -33,7 +33,7 @@ The data has been coded for easier analysis. You can download the codebook here:
 
 ### About the Data
 
-The dataset consists of reports filed between 2004 and 2014 by New York City Parks Department employees related to the discovery of decapitated animals in New York City public parks. The discoveries range from goat heads to headless chickens to cats, dogs and apparently some sort of pig. (For more information on this phenomenon, which is often related to religious rituals, you can read [this New York Magazine story](http://nymag.com/daily/intelligencer/2015/03/mystery-of-the-prospect-park-goat-heads.html).) The data has been transcribed and cleaned up from its raw, pdf format, for easy manipulation.
+The dataset consists of reports filed between 2004 and 2014 by New York City Parks Department employees related to the discovery of decapitated animals in New York City public parks. The discoveries range from goat heads to headless chickens to cats, dogs and apparently some sort of pig. (For more information on this phenomenon, you can read [this New York Magazine story](http://nymag.com/daily/intelligencer/2015/03/mystery-of-the-prospect-park-goat-heads.html).) The data has been transcribed and cleaned up from its raw, pdf format, for easy manipulation.
 
 
 ### About Useless Press
