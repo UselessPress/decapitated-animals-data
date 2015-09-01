@@ -20,11 +20,11 @@ To enter the competition, send project materials and a brief written description
 
 You may download the dataset in the following formats:
 
-* csv
-* excel
-* json
-* sql
-* mp3 (read by Amelia Winger-Bearskin)
+* [csv](animals.csv)
+* [excel](animals.excel)
+* [json](animals.json)
+* [sql](animals.sql)
+* [mp3](animals.mp3) (read by Amelia Winger-Bearskin)
 
 The data has been coded for easier analysis. You can download the codebook here:
 [codebook.pdf](codebook.pdf)
