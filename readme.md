@@ -21,7 +21,7 @@ To enter the competition, send project materials and a brief written description
 You may download the dataset in the following formats:
 
 * [csv](animals.csv)
-* [excel](animals.excel)
+* [excel](animals.xlsx)
 * [json](animals.json)
 * [sql](animals.sql)
 * [mp3](animals.mp3) (read by Amelia Winger-Bearskin)
