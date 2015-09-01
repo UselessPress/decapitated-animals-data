@@ -1,3 +1,5 @@
+# Open Call for Projects Utilizing New York City Decapitated Animals Data
+
 Useless Press has obtained a database of ten years worth of official reports about decapitated animals discovered in New York City public parks. We are pleased to announce an open call for projects that make use of this data in an innovative manner.
 
 Projects of all types will be accepted. For example:
@@ -6,10 +8,11 @@ Projects of all types will be accepted. For example:
 * collections of charts or graphs
 * interactive features
 * works of fine art
+* physical installations
 * apps
 * etc.
 
-All submitted projects will be featured on the Useless Press website, and the winning project will receive a $50 honorarium.
+Submitted projects will be featured on the Useless Press website, and the winning project will receive a $50 honorarium.
 
 To enter the competition, send project materials and a brief written description to [contact@uselesspress.org](mailto:contact@uselesspress.org) by **October 1st, 2015**. Please note that sketches, concepts, and proof-of-concepts for are also welcome. If you have any questions at all please don't hesitate to send them to this same address.
 
