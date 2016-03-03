@@ -1,13 +1,13 @@
 CREATE TABLE incidents(
-   animal                      VARCHAR2(31) NOT NULL
+   animal                      VARCHAR(31) NOT NULL
   ,quantity                    INTEGER  NOT NULL
   ,body_part_found             VARCHAR(58) NOT NULL
   ,date_started                DATE  NOT NULL
   ,date_closed                 DATE 
-  ,source                      VARCHAR2(34)
-  ,division                    VARCHAR2(53) NOT NULL
-  ,form                        VARCHAR2(18) NOT NULL
-  ,status                      VARCHAR2(8) NOT NULL
+  ,source                      VARCHAR(34)
+  ,division                    VARCHAR(53) NOT NULL
+  ,form                        VARCHAR(18) NOT NULL
+  ,status                      VARCHAR(8) NOT NULL
   ,priority                    VARCHAR(6) NOT NULL
   ,complaint_type              VARCHAR(16) NOT NULL
   ,descriptor_1                VARCHAR(11) NOT NULL
